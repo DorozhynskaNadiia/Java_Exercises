@@ -4,8 +4,11 @@ import com.company.BaseExercise;
 
 public class Exercise1 extends BaseExercise{
     public void Run(){
-        System.out.println("Exircise1 starts");
+        String exerciseName = "Exercise1";
+        StartExercise(exerciseName);
+
         System.out.println("Hello World");
-        System.out.println("Exircise1 ends");
-    };
+
+        FinishExercise(exerciseName);
+    }
 }
