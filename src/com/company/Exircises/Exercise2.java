@@ -3,7 +3,7 @@ package com.company.Exircises;
 import com.company.BaseExercise;
 
 public class Exercise2 extends BaseExercise{
-    public void Run(){
+    public static void Run(){
         String exerciseName = "Exercise2";
         StartExercise(exerciseName);
         int a = 74;
