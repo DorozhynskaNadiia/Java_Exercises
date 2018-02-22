@@ -7,7 +7,7 @@ public class Exercise1 extends BaseExercise{
         String exerciseName = "Exercise1";
         StartExercise(exerciseName);
 
-        System.out.println("Hello World");
+        System.out.println("Hello" + "\n" + "Alexandra Abramov");
 
         FinishExercise(exerciseName);
     }
