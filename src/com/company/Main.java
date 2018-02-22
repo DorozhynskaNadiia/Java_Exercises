@@ -10,5 +10,8 @@ public class Main {
         Exercise3.Run();
         Exercise4.Run();
         Exercise5.Run();
+        Exercise6.Run();
+        Exercise7.Run();
+        Exercise8.Run();
     }
 }
